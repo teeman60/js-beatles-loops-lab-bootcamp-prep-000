@@ -13,6 +13,6 @@ function johnLennonFacts(facts) {
   while (index < facts.length) {
     results.push(facts[index] + "!!!")
     count++
-    return facts
-  }
+      }
+      return facts
 }
