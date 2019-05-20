@@ -14,5 +14,5 @@ function johnLennonFacts(facts) {
     results.push(facts[index] + "!!!")
     count++
       }
-      return facts
+      return results
 }
